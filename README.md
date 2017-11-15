@@ -7,6 +7,10 @@ Demos for [mongoDB 入门篇](http://www.imooc.com/learn/295)
     - 开源
     - 技术支持
     
+### 1-2 课程简介
+
+### 1-3 MongoDB 相关网站介绍
+    
 ### 1-4 关于数据库
 1. 数据库概念
     - 有组织地存放数据
@@ -46,5 +50,21 @@ Demos for [mongoDB 入门篇](http://www.imooc.com/learn/295)
     - 齐全的驱动支持
     
 ## 二. MongoDB 的安装与配置
+### 2-1 MongoDB 运行环境简介
+
+### 2-2 编译 MongoDB 文件
+1. 常用 MongoDB 命令
+    - mongod
+    - mongo
+    - mongoimport
+    - mongoexport
+    - mongodump
+    - mongorestore
+    - mongooplog
+    - mongostat
+    
+### 2-3 搭建简单的 MongoDB 服务器
+
+### 2-4 连接 MongoDB 服务器
     
 
